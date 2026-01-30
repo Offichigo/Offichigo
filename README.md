@@ -1,6 +1,7 @@
 # Off Périanin ✨
 
-I am not fullstack developer yet.
+I am not fullstack developer yet,
+but studiant at the Ada Tech School !
 
 ## 📊 Statistiques GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Offichigo&show_icons=true&theme=tokyonight)
