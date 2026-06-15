@@ -1,3 +1,4 @@
+![Off Périanin banner](lien_vers_ton_image)
 # Off Périanin ✨
 
 Full stack web developer in training at Ada Tech School since January 2026.
