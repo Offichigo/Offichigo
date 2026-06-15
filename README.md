@@ -1,4 +1,4 @@
-![Off Périanin banner](lien_vers_ton_image)
+![Off Périanin banner](https://github.com/Offichigo/Offichigo/blob/master/banni%C3%A8re_github.png)
 # Off Périanin ✨
 
 Full stack web developer in training at Ada Tech School since January 2026.
