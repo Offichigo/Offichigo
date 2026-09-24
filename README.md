@@ -20,6 +20,8 @@ Cinema Master's degree · Former digital mediator · Love for front-end and visu
 
 ## 🚀 Projects
 
+**[SprootQuest](https://github.com/elodie-sevestre/ada-projet-lovelace-family)** — Full stack app · A gamified web app for managing household chores to get kids involved · React, JavaScript, Express, PostgreSQL, Docker, Jest, Docusaurus
+
 **[WC Dex](https://adataviz-five.vercel.app/)** — Nantes Métropole OpenData API · public toilets turned into Pokédex-style cards · dynamic search bar with suggestions
 
 **[Adashboard](https://github.com/Offichigo)** — Full stack app · skills and tasks management · React, Express, PostgreSQL, Docker
